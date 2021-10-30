@@ -1,0 +1,133 @@
+8
+16
+7
+7
+row-1-column-1.png
+row-1-column-2.png Door Repair
+row-1-column-3.png
+row-1-column-4.png Door Repair
+row-1-column-5.png Medicine Shop
+row-1-column-6.png Dungeon 9
+row-1-column-7.png
+row-1-column-8.png Door Repair
+row-1-column-9.png
+row-1-column-10.png
+row-1-column-11.png White Sword
+row-1-column-12.png Dungeon 5
+row-1-column-13.png Item Shop
+row-1-column-14.png Medicine Shop
+row-1-column-15.png Show this to the old woman - map piece
+row-1-column-16.png It's a Secret 100RP
+row-2-column-1.png Let's Play Money Game
+row-2-column-2.png
+row-2-column-3.png Item Shop
+row-2-column-4.png It's a Secret 30RP
+row-2-column-5.png Door Repair
+row-2-column-6.png
+row-2-column-7.png Door Repair
+row-2-column-8.png
+row-2-column-9.png
+row-2-column-10.png
+row-2-column-11.png Go up the mountain ahead
+row-2-column-12.png
+row-2-column-13.png Secret is in the tree and the dead end
+row-2-column-14.png Teleport
+row-2-column-15.png Door repair
+row-2-column-16.png Let's Play Money Game
+row-3-column-1.png
+row-3-column-2.png Magic Sword
+row-3-column-3.png Dungeon 6
+row-3-column-4.png Teleport
+row-3-column-5.png
+row-3-column-6.png Item Shop
+row-3-column-7.png Item Shop
+row-3-column-8.png Medicine Shop
+row-3-column-9.png It's a Secret 30RP
+row-3-column-10.png
+row-3-column-11.png
+row-3-column-12.png
+row-3-column-13.png Take Any One - Potion/Heart
+row-3-column-14.png It's a Secret 30RP
+row-3-column-15.png
+row-3-column-16.png Take Any One - Potion/Heart
+row-4-column-1.png
+row-4-column-2.png
+row-4-column-3.png
+row-4-column-4.png Medicine Shop
+row-4-column-5.png Item Shop
+row-4-column-6.png
+row-4-column-7.png Dungeon 1
+row-4-column-8.png
+row-4-column-9.png
+row-4-column-10.png
+row-4-column-11.png
+row-4-column-12.png Dungeon 2
+row-4-column-13.png It's a Secret 30RP
+row-4-column-14.png
+row-4-column-15.png
+row-4-column-16.png
+row-5-column-1.png
+row-5-column-2.png
+row-5-column-3.png Dungeon 7
+row-5-column-4.png
+row-5-column-5.png Item Shop
+row-5-column-6.png Dungeon 4
+row-5-column-7.png Item Shop
+row-5-column-8.png Take Any One - Potion/Heart
+row-5-column-9.png It's a Secret 30RP
+row-5-column-10.png Teleport
+row-5-column-11.png Item Shop
+row-5-column-12.png Medicine Shop
+row-5-column-13.png
+row-5-column-14.png Item Shop
+row-5-column-15.png It's a Secret 10RP
+row-5-column-16.png
+row-6-column-1.png
+row-6-column-2.png It's a Secret 10RP
+row-6-column-3.png
+row-6-column-4.png
+row-6-column-5.png
+row-6-column-6.png
+row-6-column-7.png It's a Secret 10RP
+row-6-column-8.png
+row-6-column-9.png
+row-6-column-10.png
+row-6-column-11.png
+row-6-column-12.png It's a Secret 10RP
+row-6-column-13.png
+row-6-column-14.png
+row-6-column-15.png Item Shop
+row-6-column-16.png
+row-7-column-1.png
+row-7-column-2.png
+row-7-column-3.png It's a Secret 100RP
+row-7-column-4.png Door Repair
+row-7-column-5.png Medicine Shop
+row-7-column-6.png
+row-7-column-7.png Item Shop
+row-7-column-8.png It's a Secret 30RP
+row-7-column-9.png Door Repair
+row-7-column-10.png 
+row-7-column-11.png Door Repair
+row-7-column-12.png It's a Secret 100RP
+row-7-column-13.png 
+row-7-column-14.png Dungeon 8
+row-7-column-15.png
+row-7-column-16.png Item Shop
+row-8-column-1.png Go north, west, south, west to the forest maze
+row-8-column-2.png It's a Secret 30RP
+row-8-column-3.png
+row-8-column-4.png 
+row-8-column-5.png Dungeon 3
+row-8-column-6.png Meet the old man at the graveyard
+row-8-column-7.png Let's Play Money Game
+row-8-column-8.png It's dangerous to go alone! - Wood Sword
+row-8-column-9.png Take Any One - Potion/Heart
+row-8-column-10.png Teleport
+row-8-column-11.png
+row-8-column-12.png Take Any One - Potion/Heart
+row-8-column-13.png Let's Play Money Game
+row-8-column-14.png Door Repair
+row-8-column-15.png
+row-8-column-16.png
+
