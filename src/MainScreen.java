@@ -11,9 +11,11 @@ public class MainScreen extends JFrame implements ActionListener{
 
   // all the parts on the screen
   private PicturePanel picturePanel;
-  private JButton forward;
-  private JButton turnRight;
-  private JButton turnLeft;
+  private JButton north;
+  private JButton east;
+  private JButton west;
+  private JButton south;
+  private JTextField info;
 
 
   /**
@@ -35,30 +37,45 @@ public class MainScreen extends JFrame implements ActionListener{
 
     // create the JPanel with a BoarderLayout
     JPanel mainPanel = new JPanel(new BorderLayout());
+    // create another JPanel with a GridLayout to put 2 lines ontop of each other
+    JPanel extraSpace = new JPanel(new GridLayout(2,1));
+    
 
+    // make the JTextArea for the extra info
+    this.info = new JTextField();
+    this.info.setEnabled(false);
+    
     // create the different buttons
-    this.forward = new JButton("Forward");
-    this.turnLeft = new JButton("Turn Left");
-    this.turnRight = new JButton("Turn Right");
+    this.north = new JButton("North");
+    this.east = new JButton("East");
+    this.west = new JButton("West");
+    this.south = new JButton("South");
    
     // add the actionListeners
-    this.forward.addActionListener(this);
-    this.turnLeft.addActionListener(this);
-    this.turnRight.addActionListener(this);
+    this.north.addActionListener(this);
+    this.east.addActionListener(this);
+    this.south.addActionListener(this);
+    this.west.addActionListener(this);
    
     // set action commands
-    this.forward.setActionCommand("forward");
-    this.turnLeft.setActionCommand("left");
-    this.turnRight.setActionCommand("right");
+    this.north.setActionCommand("north");
+    this.east.setActionCommand("east");
+    this.south.setActionCommand("south");
+    this.west.setActionCommand("west");
 
 
     // create the picture panel
     this.picturePanel = new PicturePanel();
+    
+    // add the south and the info to the extra space to add to the bottom area
+    extraSpace.add(this.south);
+    extraSpace.add(this.info);
 
     // add all components in the correct spot
-    mainPanel.add(this.turnRight, BorderLayout.LINE_END);
-    mainPanel.add(this.forward, BorderLayout.PAGE_END);
-    mainPanel.add(this.turnLeft, BorderLayout.LINE_START);
+    mainPanel.add(this.east, BorderLayout.LINE_END);
+    mainPanel.add(extraSpace, BorderLayout.PAGE_END);
+    mainPanel.add(this.north, BorderLayout.PAGE_START);
+    mainPanel.add(this.west, BorderLayout.LINE_START);
     mainPanel.add(this.picturePanel, BorderLayout.CENTER);
 
     // add panel to the frame
@@ -80,11 +97,13 @@ public class MainScreen extends JFrame implements ActionListener{
     // determine the action command
     String command = e.getActionCommand();
     // use a switch case to do the movement
-    if(command.equals("forward")){
+    if(command.equals("north")){
     
-    }else if(command.equals("right")){
+    }else if(command.equals("east")){
     
-    }else if(command.equals("left")){
+    }else if(command.equals("south")){
+    
+    }else if(command.equals("west")){
     
     }
 
